@@ -7,10 +7,16 @@
 
     {% if site.researchgate %}
 	<a class="link" data-title="researchgate.net/{{ site.researchgate }}" href="https://researchgate.net/{{ site.researchgate }}" target="_blank">
-		<link rel="stylesheet" href="{{ site.url }}/css/academicons.css"/><i class="ai ai-researchgate-square ai-lg"></i>
+		<svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
 	</a>
     {% endif %}
 
+    {% if site.github %}
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+        </a>
+    {% endif %}
+    
     {% if site.twitter %}
         <a class="link" data-title="twitter.com/{{ site.twitter }}" href="http://twitter.com/{{ site.twitter }}" target="_blank">
             <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
@@ -59,12 +65,6 @@
         </a>
     {% endif %}
 
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
-            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
-        </a>
-    {% endif %}
-    
     {% if site.stackoverflow %}
         <a class="link" data-title="stackoverflow.com/users/{{ site.stackoverflow }}" href="http://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank">
             <svg class="icon icon-stackoverflow"><use xlink:href="#icon-stackoverflow"></use></svg>
