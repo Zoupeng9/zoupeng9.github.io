@@ -2,45 +2,29 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/assets/images/picture2.jpg)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+My name is Peng Zou. I come from Sinan county, Guizhou province, southwest China. 
+Since September 2015, I'm a master student major in geophysics in Tongji university. 
+My supervisor is Prof. Jiubing Cheng, of [Reflection Seimic Group](http://mgg.tongji.edu.cn/space/rsg/main.psp) 
+in [School of Ocean and Earth Science](http://mgg.tongji.edu.cn). 
+Before that I'm a bachelor student in the same department of Tongji university.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+The main work of my ordinary research is using the seimic data to interprete the underground 
+strata structure and rock's physical properties. My research interests including computational 
+seismology, anisotropic media forward modelling and migration, visco- acoustic/elastic waveform 
+inversion and multiscale tomography. I'm the student member of 
+[Society of Exploration Geophysicists](http://seg.org/) and 
+[European Association of Geoscientists & Engineers](http://eage.org/).
+
+After work, I love sports very much (basketball, badminton, table tennis, running and cricket).
+I'm also like puzzle games (poker, Chinese chess and mahjong). 
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Programming in Linux</li>
+	<li>C, C++ and Fortran</li>
+	<li>Matlab and Python</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>

@@ -1,7 +1,7 @@
 ---
 title: "Markdown Extra Components"
 layout: post
-date: 2016-02-24 22:48
+date: 2017-07-25 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -66,7 +66,7 @@ Like the [Medium](https://medium.com/) component.
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/profile.jpg" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
@@ -84,7 +84,7 @@ Like the [Medium](https://medium.com/) component.
     </div>
 
     <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/profile.jpg" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 </div>
@@ -96,7 +96,7 @@ Like the [Medium](https://medium.com/) component.
     </div>
 
     <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/profile.jpg" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 </div>

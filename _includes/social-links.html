@@ -5,6 +5,12 @@
         </a>
     {% endif %}
 
+    {% if site.researchgate %}
+	<a class="link" data-title="researchgate.net/{{ site.researchgate }}" href="https://researchgate.net/{{ site.researchgate }}" target="_blank">
+		<link rel="stylesheet" href="{{ site.url }}/css/academicons.css"/><i class="ai ai-researchgate-square ai-lg"></i>
+	</a>
+    {% endif %}
+
     {% if site.twitter %}
         <a class="link" data-title="twitter.com/{{ site.twitter }}" href="http://twitter.com/{{ site.twitter }}" target="_blank">
             <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
