@@ -4,7 +4,8 @@ layout: post
 date:   2017-07-26 15:30 
 category: blog
 author: Chenlong Wang
-description: Some notes made by myself when I was learning git
+excerpt: Some notes made by myself when I was learning git
+star: true
 tag:
 - git 
 - version control 

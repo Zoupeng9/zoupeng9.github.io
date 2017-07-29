@@ -4,6 +4,7 @@ title:  "How to type Chinese in Latex"
 date:   2017-07-26 14:20 
 category: blog
 author: Chenlong Wang
+star: true
 excerpt: "Two ways to type Chinese fonts in Latex"
 tag:
 - Latex 
