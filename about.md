@@ -19,6 +19,12 @@ inversion and multiscale tomography. I'm the student member of
 
 After work, I love sports very much (basketball, badminton, table tennis, running and cricket).
 I'm also like puzzle games (poker, Chinese chess and mahjong). 
+    
+My mother tongue is Chinese, however, I will try to write some of my posts in English. But it depends. 
+Due to my limited ability, mistakes are inevitable in the posts and I am not responsible for the 
+corresponding consequences. If you have any suggestions about the technical content or my English 
+skills, let me know, please.
+
 
 <h2>Skills</h2>
 
