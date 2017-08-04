@@ -28,8 +28,8 @@ comments: true
 
 ### 安装路径设置  
 在自己的home下面建两个文件夹，RSF, RSFTMP。
-+ `mkdir RSF` madagasacr 的安装路径
-+ `mkdir RSFTMP` madagascar 数据文件的存放路径
++ `mkdir RSF`  安装路径
++ `mkdir RSFTMP`   数据文件的存放路径
 
 ### 安装前检查依赖库   
 
@@ -37,7 +37,7 @@ comments: true
 API后面是接口，默认接口是c, c++。此步会自动检测依赖库的安转情况，请自行安转自己需要的依赖库，然后再执行上面命令。
 
 #### 依赖库安装 
-+ Ubuntu 系统直接用 `sudo apt-get install` + 提示的库名即可。
++ Ubuntu 系统直接用 `sudo apt-get install` + package 即可, 可参照[这里](http://blog.sciencenet.cn/home.php?mod=space&uid=898810&do=blog&id=674969)的依赖库。
 + CentOS 系统可用自带的软件管理工具安转。或者`yum search`+key 搜索到软件包，然后`yum install`+package 安装即可。
 + CentOS 7 需要用atlas 包来代替cblas 和lapack库，并对 framework/configure.py文件做如下修改。![]({{ site.url }}/assets/images/post/madagascar_install.png)
 具体安转错误排除可在[这里](http://www.ahay.org/wikilocal/docs/3_Madagascarschool-Qingdao-Wang.pdf)查看。 
