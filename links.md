@@ -31,7 +31,8 @@ permalink: /links/
 [Madagascar](http://www.ahay.org/wiki/Main_Page)
 [SEG software](http://software.seg.org/)     
 [CREWES Matlab Toolbox](http://www.crewes.org/ResearchLinks/FreeSoftware/)   
-[Software-Princeton](http://www.princeton.edu/geosciences/tromp/software/)    
+[Software-Princeton](http://www.princeton.edu/geosciences/tromp/software/) 
+[SSH 免密码登录及其原理](http://www.cnblogs.com/kex1n/p/6017963.html?utm_source=itdadao&utm_medium=referral)
 
 
 
