@@ -28,12 +28,14 @@ permalink: /links/
 
 ## Softwares 
 [CWP/SU](http://www.cwp.mines.edu/cwpcodes/)      
-[Madagascar](http://www.ahay.org/wiki/Main_Page)
+[Madagascar](http://www.ahay.org/wiki/Main_Page)		
 [SEG software](http://software.seg.org/)     
-[CREWES Matlab Toolbox](http://www.crewes.org/ResearchLinks/FreeSoftware/)   
-[Software-Princeton](http://www.princeton.edu/geosciences/tromp/software/)       
-[SSH 免密码登录及其原理](http://www.cnblogs.com/kex1n/p/6017963.html?utm_source=itdadao&utm_medium=referral)
-
+[CREWES Matlab Toolbox](http://www.crewes.org/ResearchLinks/FreeSoftware/)	
+[SSH 免密码登录及其原理](http://www.cnblogs.com/kex1n/p/6017963.html?utm_source=itdadao&utm_medium=referral)  
+[墨西哥天然地震排列数据](http://web.gps.caltech.edu/~clay/MexWeb/MexSubduction.html)  
+[天然地震台站查看](http://ds.iris.edu/gmap/?minlat=8&maxlat=23&minlon=-124&maxlon=-80) 
+[天然地震台站数据下载](http://ds.iris.edu/SeismiQuery/station.htm) 
+[地震列表下载](http://www.ncedc.org/anss/catalog-search.html)
 
 
 ## Others
