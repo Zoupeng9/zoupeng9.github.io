@@ -51,9 +51,9 @@ API后面是接口，默认接口是c, c++。此步会自动检测依赖库的�
 + `make install` or `scons install` 
 
 ### 最后的配置 
-全部编译安装完成后，打开 $RSFROOT/etc/madagascar/env.sh 文件， 把里面的DATAPATH变量改成~/RSFTMP。
+全部编译安装完成后，打开 $RSFROOT/share/madagascar/etc/env.sh 文件， 把里面的DATAPATH变量改成~/RSFTMP。
 并把madagascar的环境变量设置好。
-打开 ~/.bashrc文件，将`source $RSFROOT/etc/madagascar/env.sh` 添加到文件的末尾，注意，RSFROOT要
+打开 ~/.bashrc文件，将`source $RSFROOT/share/madagascar/etc/env.sh` 添加到文件的末尾，注意，RSFROOT要
 写成前面的完整路径最后，保存，退出，在终端中输入 `source .bashrc`。madagascar的安装就完成了。
 在终端输入`sfin`命令，如能看到该命令的用法提示，说明安装成功。
 
